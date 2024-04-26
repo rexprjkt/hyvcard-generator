@@ -1,0 +1,31 @@
+{
+  "name": "hyvcard-generator",
+  "version": "1.0.0",
+  "description": "A Genshin/Star Rail character card image generator (inspired from enka.network)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexprjkt/hyvcard-generator.git"
+  },
+  "keywords": [
+    "genshin",
+    "hsr",
+    "honkai-star-rail",
+    "card",
+    "generator"
+  ],
+  "author": "xyzuniverse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rexprjkt/hyvcard-generator/issues"
+  },
+  "homepage": "https://github.com/rexprjkt/hyvcard-generator#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "canvas": "^2.11.2",
+    "sharp": "^0.33.3"
+  }
+}
